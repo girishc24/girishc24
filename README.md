@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **python, Django, AWS**
 
-- 📫 How to reach me **girishpluto@gmail.com**
+- 📫 How to reach me **girishchandraiah1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
