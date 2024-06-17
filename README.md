@@ -22,3 +22,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girishc24&show_icons=true&locale=en" alt="girishc24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girishc24&" alt="girishc24" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishc24&show_icons=true&locale=en&layout=compact" alt="girishc24" /></p>
+
+<hr>
+
+<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1533287c99585a2a7b9b7e3e11ffe42b4ed22bf9624d0bcd686e40541d04e0c4/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d6e77616c6961657a2669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=girishc24&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
+
