@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
-- 🌱 I’m currently learning **React, Go language**
+- 🌱 I’m currently learning **React and System Design**
 
 - 💬 Ask me about **python, Django, AWS**
+  
+- 💻 All of my projects are available on <a href="https://github.com/girishc24">GitHub</a>**
 
 - 📫 How to reach me **girishchandraiah1999@gmail.com**
 
