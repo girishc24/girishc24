@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girish C</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=girishc24&label=Profile%20views&color=0e75b6&style=flat" alt="girishc24" /> </p>
 - 🌱 I’m currently learning **React and System Design**
 
 - 💬 Ask me about **python, Django, AWS**
@@ -25,7 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishc24&show_icons=true&locale=en&layout=compact" alt="girishc24" /></p>
 
-<hr>
-
-<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1533287c99585a2a7b9b7e3e11ffe42b4ed22bf9624d0bcd686e40541d04e0c4/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d6e77616c6961657a2669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=girishc24&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
 
