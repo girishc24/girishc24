@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **python, Django, AWS**
   
-- 💻 All of my projects are available on <a href="https://github.com/girishc24">GitHub</a>**
+- 💻 All of my projects are available on <a href="https://github.com/girishc24">GitHub</a>
 
 - 📫 How to reach me **girishchandraiah1999@gmail.com**
 
